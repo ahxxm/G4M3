@@ -1,2 +1,10 @@
-.gdbhistory
+.gdb_history
 core
+*.o
+peda-session-*.txt
+CMakeLists.txt
+cmake-build-debug/
+.idea/
+*.pyc
+*.swp
+
